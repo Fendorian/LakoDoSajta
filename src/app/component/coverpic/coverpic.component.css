@@ -1,0 +1,12 @@
+.text-color {
+  color: black;
+}
+.page-picture {
+  height: 500px;
+  background: url("../../../assets/slika4.png");
+  background-attachment: static;
+  background-repeat: no-repeat;
+  color: white;
+  border-bottom: 1px #eee solid;
+  padding-top: 50px;
+}

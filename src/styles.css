@@ -1,0 +1,4 @@
+@import "~@fortawesome/fontawesome-free/css/all.css";
+@import "../src/app/component/nav/nav.component.css";
+@import "../node_modules/slick-carousel/slick/slick.css";
+@import "../node_modules/slick-carousel/slick/slick-theme.css";

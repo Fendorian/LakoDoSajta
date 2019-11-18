@@ -1,0 +1,35 @@
+#page-prices {
+  height: 200px;
+  background: url("../../../assets/night.jpg");
+  background-position: 0 -360px;
+  background-attachment: fixed;
+  color: #fff;
+  border-bottom: 1px #eee solid;
+  padding-top: 50px;
+}
+.packet-special-color {
+  background: #dbdf67;
+}
+.special-price {
+  font-size: 15px;
+  text-decoration: line-through;
+  color: red;
+}
+.about-img {
+  margin-top: -50px;
+}
+.card-header .card-body {
+  background: #333;
+}
+.overline-text {
+  text-decoration: line-through;
+}
+.red-text {
+  color: red;
+}
+.zoom {
+  transition: transform 0.2s;
+}
+.zoom:hover {
+  transform: scale(1.12);
+}
